@@ -1,16 +1,16 @@
 apiVersion: v1
 entries:
-  qcloudy-common-app:
+  common-app:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2022-02-20T19:22:39.931035+06:00"
-    description: qcloudy-common-app
-    digest: 4ae2909bc9501779841fc5d708301b4e9b0865eae0c9350996c625a5d83601f3
+    created: "2022-02-20T19:28:56.449587+06:00"
+    description: common-app
+    digest: f88181ed8bacfa62d1c44d8aed23541f4c543c763d83834afb1db71e4c550ecf
     maintainers:
-    - email: marat@qcloudy.io
-      name: Okassov Marat
-    name: qcloudy-common-app
+    - email: b.kalmaganbet@petrel.ai
+      name: Balzhan Kalmaganbet
+    name: common-app
     urls:
-    - qcloudy-common-app-1.0.0.tgz
+    - common-app-1.0.0.tgz
     version: 1.0.0
-generated: "2022-02-20T19:22:39.930253+06:00"
+generated: "2022-02-20T19:28:56.448876+06:00"

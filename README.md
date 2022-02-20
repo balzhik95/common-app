@@ -20,7 +20,7 @@ $ helm install my-release petrel-ai/common-app --set image.repository=<Hostname 
  To install the chart with the release name `my-release`:
 
 ```console
-$ helm install my-release qcloudy/qcloudy-common-app \
+$ helm install my-release petrel-ai/common-app \
   --set image.repository=<Hostname of your container registry> \
   --set image.tag=<Tag of your container image>
 ```
